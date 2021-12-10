@@ -9,7 +9,11 @@ I will continue improving the design and UX of this website moving forward.
 
 ## Author and acknowledgment
 Takahiro Tanaka
+
 GitHub Username: ttakahiro0110
+
 LinkedIn Link:  https://www.linkedin.com/in/takahiro-tanaka-0aa21733
+
 Email: ttakahiro0110@gmail.com
+
 Thank you for MIT xPro professors, instructors, and all other staff.
