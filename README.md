@@ -16,4 +16,4 @@ LinkedIn Link:  https://www.linkedin.com/in/takahiro-tanaka-0aa21733
 
 Email: ttakahiro0110@gmail.com
 
-Thank you for MIT xPro professors, instructors, and all other staff.
+Thank you to MIT xPro professors, instructors, and all other staff.
