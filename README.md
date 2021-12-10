@@ -1,4 +1,4 @@
-# Github Pages Portfolio
+# Takahiro Tanaka's Github Pages Portfolio
 https://ttakahiro0110.github.io/
 
 ## Descriptions:
